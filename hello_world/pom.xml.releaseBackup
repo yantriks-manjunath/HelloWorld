@@ -4,7 +4,7 @@
 
 	<groupId>com.Hello</groupId>
 	<artifactId>hello_world</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>hello_world</name>
@@ -34,7 +34,7 @@
   <connection>scm:git:https://github.com/yantriks-manjunath/HelloWorld.git</connection>
   <developerConnection>scm:git:git@github.com:yantriks-manjunath/HelloWorld.git</developerConnection>
   <url>https://github.com/yantriks-manjunath/HelloWorld</url>
-  <tag>bugfix</tag>
+  <tag>release1</tag>
    </scm>
    
 	<build>
